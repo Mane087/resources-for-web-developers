@@ -24,6 +24,7 @@
 - Supabase `capa gratuita`: https://supabase.com/
 - Neon `capa gratuita`: https://neon.tech/
 - CloudFlare `capa gratuita`: https://www.cloudflare.com/es-es/
+- PlanetScale `capa gratuita`: https://planetscale.com/
 
 ## Cloud para imagenes
 - Cloudinary `capa gratuita`: https://cloudinary.com/
