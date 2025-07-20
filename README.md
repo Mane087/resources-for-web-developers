@@ -1,4 +1,4 @@
-# Resources for web developers
+# Recursos para desarrolladores web
 
 ## Hosting web
 - Hostinger `de paga`: https://www.hostinger.mx/
