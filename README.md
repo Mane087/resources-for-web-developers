@@ -26,6 +26,7 @@
 - MongoDB `capa gratuita`: https://www.mongodb.com/
 - Turso `capa gratuita`: https://turso.tech/
 - Supabase `capa gratuita`: https://supabase.com/
+- PocketBase `capa gratuita`: https://pocketbase.io/
 - Neon `capa gratuita`: https://neon.tech/
 - CloudFlare `capa gratuita`: https://www.cloudflare.com/es-es/
 - PlanetScale `capa gratuita`: https://planetscale.com/
@@ -39,3 +40,20 @@
 - Digital Ocean `capa gratuita`: https://www.digitalocean.com/
 - Dropbox `capa gratuita`: https://www.dropbox.com/es/
 - Flickr `capa gratuita`: https://www.flickr.com/
+
+## BackEnd as a service
+- Convex: https://www.convex.dev/
+- Appwrite: https://appwrite.io/
+- Grafbase: https://grafbase.com/
+- Coolify: https://coolify.io/
+- Dokku: https://dokku.com/
+- DokPloy: https://dokploy.com/
+
+## API testing:
+- PostMan
+- Insomnia
+- Bruno
+- HOPPSCOTCH
+- RestFox
+- Yaade
+- Httpie
